@@ -1,7 +1,3 @@
-# perplexity_user_problem
-如何一次性导出所有对话记录
-
-
 # 🚀 终极指南：零成本批量导出 Perplexity 聊天记录
 
 **适用工具：** GitHub 开源项目 `perplexity-ai-export`
@@ -91,6 +87,3 @@ npm start
 
 ---
 
-
-
-你可以直接复制上面的代码块。需要我为你提供一份将这些导出的 Markdown 文件高效整理进 Obsidian 或 Notion 的分类模板和建议吗？
