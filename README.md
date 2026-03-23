@@ -6,8 +6,11 @@
 ---
 
 ## 🛠️ 准备工作 (环境搭建)
-1. 确保电脑已安装 **Node.js**。
-2. 下载项目源码（通过 `git clone` 或直接下载 ZIP 压缩包并解压）。
+1. 确保电脑已安装 **[Node.js](https://nodejs.org/zh-cn)**。（注：打开官网后，建议普通用户下载左侧绿色的 **LTS 长期维护版**，安装时一直点“下一步”即可，它会自动配置好 npm 环境变量）。
+2. 下载项目源码：
+   * 打开 GitHub 项目主页：[perplexity-ai-export](https://github.com/simwai/perplexity-ai-export)
+   * **方法 A（新手推荐）**：点击页面右侧绿色的 **`<> Code`** 按钮，在下拉菜单中选择 **`Download ZIP`**。下载后解压到你的电脑里。
+   * **方法 B（程序员专用）**：如果你装了 Git，直接在终端运行命令：`git clone https://github.com/simwai/perplexity-ai-export.git`
 
 ---
 
